@@ -3,6 +3,6 @@
 </head>
 <body>
 <script type="text/javascript">
-   document.write("Hello Javascript!")
+   document.write("Hello Javascript created by sreenath!")
 </script>
 </body>
